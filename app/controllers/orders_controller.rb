@@ -1,3 +1,10 @@
+=begin
+Author: Luis López
+Website: https://github.com/luislopez-dev
+Description: Training Project
+=end
+
+
 require './app/services/sendgrid/email/email_service'
 
 class OrdersController < ApplicationController
