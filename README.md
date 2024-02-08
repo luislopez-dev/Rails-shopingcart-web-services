@@ -1,17 +1,20 @@
-# Shippingcart - Backend API
+# &copy;Web Items - Backend API
 
 ## Table of contents
 
 * [Introduction](#introduction)
-* [Technology](#technologies)
+* [Frontend](#frontend)
+* [Technology](#technology)
 * [Environmental variables](#environmental-variables)
+* [Project execution](project-execution)
 * [Endpoints](#endpoints)
-
 ## Introduction
 
-Web services on Ruby on Rails for building ecommerce websites. This project can be integrated with frontend frameworks such as react, vue.js or angular. 
+This repository contains the backend API code of wWeb Items.
 
-Backend API for build
+## Frontend
+
+The repository of the frontend code of Web Items can be found at: https://github.com/luislopez-dev/React-eCommerce-app
 
 ## Technologies
 
@@ -27,6 +30,16 @@ Backend API for build
 3. `DB_PASSWORD:` The database password
 4. `DB_NAME:` The database name
 5. `SENDGRID_API_KEY:` The API Key of your Sendgrid account. 
+
+## Project execution
+
+1. Clone this repository
+2. Install the project dependencies with the following command `gem install`
+3. Create a file with the name `application.yml` inside the `config` folder and setup the environmental variables described in the previous section. 
+4. Create the project database with the following command `Rails db:create`
+5. Run the database migrations with the following command `Rails db:migrate`
+6. Run the database seeds the following command `Rails db:seed`
+7. Finally execute the project with the following command `Rails server` or `Rails s`
 
 ## Endpoints
 
