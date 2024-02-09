@@ -3,7 +3,7 @@
 ## Table of contents
 
 * [Introduction](#introduction)
-* [Frontend app](#frontend-app)
+* [Frontend template](#frontend-template)
 * [Technology](#technology)
 * [Environmental variables](#environmental-variables)
 * [Project execution](project-execution)
@@ -13,7 +13,7 @@
 
 Web services made with Ruby on Rails, designed for ecommerce websites. Developed with love ❤️ by [Luis López](https://github.com/luislopez-dev) 
 
-## Frontend app
+## Frontend template
 
 https://github.com/luislopez-dev/Nextjs-shoppingcart-template
 
