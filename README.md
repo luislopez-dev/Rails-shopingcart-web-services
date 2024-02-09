@@ -1,4 +1,4 @@
-# &copy;Web Items - Backend API
+# eCommerce - Backend API
 
 ## Table of contents
 
@@ -10,11 +10,11 @@
 * [Endpoints](#endpoints)
 ## Introduction
 
-This repository contains the backend API code of wWeb Items.
+Web services made with Ruby on Rails, designed for ecommerce websites. Developed with love ❤️ by [Luis López](https://github.com/luislopez-dev) 
 
-## Frontend
+## Frontend UI
 
-The repository of the frontend code of Web Items can be found at: https://github.com/luislopez-dev/React-eCommerce-app
+https://github.com/luislopez-dev/Nextjs-shoppingcart-template
 
 ## Technologies
 
