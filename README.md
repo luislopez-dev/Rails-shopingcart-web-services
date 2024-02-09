@@ -81,6 +81,11 @@ This endpoint creates a new order and sends it to the client via email
 
 This endpoint fetches all the categories from the database
 
+### Support
+
+If you enjoy my work, you are welcome to buying me a coffee on Buy Me a Coffee! It's a small gesture that goes a long way. Thank you for your support! ☕️🙏<br> 
+<a href="https://www.buymeacoffee.com/luislopez" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 <br>
+
 
 Copyright 2022-2024 © [Luis López](https://github.com/luislopez-dev)
