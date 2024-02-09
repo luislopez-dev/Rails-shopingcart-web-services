@@ -3,19 +3,16 @@
 ## Table of contents
 
 * [Introduction](#introduction)
-* [Frontend template](#frontend-template)
 * [Technology](#technology)
 * [Environmental variables](#environmental-variables)
 * [Project execution](project-execution)
 * [Endpoints](#endpoints)
+* [Frontend template](#frontend-template)
+* [Admin dashboard](#admin-dashboard)
 
 ## Introduction
 
 Web services made with Ruby on Rails, designed for ecommerce websites. Developed with love ❤️ by [Luis López](https://github.com/luislopez-dev) 
-
-## Frontend template
-
-<img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> https://github.com/luislopez-dev/Nextjs-shoppingcart-template
 
 ## Technologies
 
@@ -80,6 +77,14 @@ This endpoint creates a new order and sends it to the client via email
 ![GET](https://img.shields.io/badge/METHOD-GET-green) **`http://localhost/categories`**
 
 This endpoint fetches all the categories from the database
+
+## Frontend template
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> https://github.com/luislopez-dev/Nextjs-shoppingcart-template
+
+## Admin dashboard
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> https://github.com/luislopez-dev/Shoppingcart-admin-dashboard-template
 
 ### Support
 
