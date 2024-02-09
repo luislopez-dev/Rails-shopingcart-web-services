@@ -80,4 +80,4 @@ This endpoint creates a new order and sends it to the client via email
 
 This endpoint fetches all the categories from the database
 
-* Copyright 2021-2024 © [Luis Lopez](https://github.com/luislopez-dev)
+* Copyright 2022-2024 © [Luis Lopez](https://github.com/luislopez-dev)
