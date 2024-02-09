@@ -3,16 +3,17 @@
 ## Table of contents
 
 * [Introduction](#introduction)
-* [Frontend](#frontend)
+* [Frontend app](#frontend-app)
 * [Technology](#technology)
 * [Environmental variables](#environmental-variables)
 * [Project execution](project-execution)
 * [Endpoints](#endpoints)
+
 ## Introduction
 
 Web services made with Ruby on Rails, designed for ecommerce websites. Developed with love ❤️ by [Luis López](https://github.com/luislopez-dev) 
 
-## Frontend UI
+## Frontend app
 
 https://github.com/luislopez-dev/Nextjs-shoppingcart-template
 
