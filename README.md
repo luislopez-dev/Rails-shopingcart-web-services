@@ -15,7 +15,7 @@ Web services made with Ruby on Rails, designed for ecommerce websites. Developed
 
 ## Frontend template
 
-https://github.com/luislopez-dev/Nextjs-shoppingcart-template
+<img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> https://github.com/luislopez-dev/Nextjs-shoppingcart-template
 
 ## Technologies
 
